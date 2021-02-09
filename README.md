@@ -1,4 +1,4 @@
-### Hi there, I'm Ethan - AKA EthanBuc 👋
+### Hi there, I'm Ethan - aka EthanBuc 👋
 
 
 ## I'm a School Student,Developer,Graphic designer And Video editor!!
@@ -11,9 +11,7 @@
 - 👨‍🎓 I’m currently learning C# and Azure.
 
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/rqhhk1l19cxorc1hn7kxa94tn)
 
 ### Connect with me:
 
