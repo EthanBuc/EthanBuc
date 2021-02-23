@@ -4,8 +4,6 @@
 ## I'm a School Student,Developer,Graphic designer And Video editor!!
 
 - 🐍 I program mostly in JS!
-- 🌱 I’m currently learning everything 🤣
-- 🤖 I mainly make discord bots!
 - 🥅 2021 Goals: Learn more programming skills like new languages or frameworks.
 - ⚡ Fun fact: I love to  play guitar.
 - 👨‍🎓 I’m currently learning C# and Azure.
