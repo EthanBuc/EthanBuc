@@ -1,4 +1,4 @@
-### Hi there, I'm Ethan - aka EthanBuc 👋
+### Hi there, I'm enyoz - aka EthanBuc 👋
 
 
 ## I'm a School Student,Developer,Graphic designer And Video editor!!
